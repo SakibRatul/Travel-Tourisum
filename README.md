@@ -23,7 +23,7 @@ Set up a MongoDB database and connect it to the project
 Set up a Stripe account and add the API keys to the project
 Add your Google Maps API key to the project
 Run the server by running npm start
-Access the website at http://localhost:3000
+Access the website at 
 Contributions
 Contributions to this project are welcome! To contribute, please follow these steps:
 
